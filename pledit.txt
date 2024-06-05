@@ -1,8 +1,0 @@
-[Text]
-Normal=#908D8D
-Current=#FFFFFF
-NormalBG=#00000
-SelectedBG=#460A0A
-MbFG=#908D8D
-MbBG=#00000         
-Font=Times New Roman
